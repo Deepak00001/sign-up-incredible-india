@@ -1,7 +1,7 @@
 body{
-	background-image: url('../images/op.png');
+	background-image: url('../img/op.png');
   background-repeat:no-repeat;
-  background-color: #00FFFF;
+  background-color: #F9EBEA;
 }
 section img{
 	float: right;
